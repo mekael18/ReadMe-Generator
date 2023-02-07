@@ -1,0 +1,24 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mekael18/ReadMe-Generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mekael18/ReadMe-Generator/issues"
+  },
+  "homepage": "https://github.com/mekael18/ReadMe-Generator#readme",
+  "description": ""
+}
